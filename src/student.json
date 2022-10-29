@@ -1,0 +1,40 @@
+{
+    "students" : [
+        {
+            "id": 1000,
+            "name": "Dinesh",
+            "subject": "HTML",
+            "email": "test1@test.com"
+        }, 
+        {
+            "id": 2000,
+            "name": "Fouziya",
+            "subject": "CSS",
+            "email": "test1@test.com"
+        }, 
+        {
+            "id": 3000,
+            "name": "Afnaan",
+            "subject": "Bootstrap",
+            "email": "test1@test.com"
+        }, 
+        {
+            "id": 4000,
+            "name": "Deepak",
+            "subject": "JS",
+            "email": "test1@test.com"
+        }, 
+        {
+            "id": 5000,
+            "name": "Karthick",
+            "subject": "ReactJs",
+            "email": "test1@test.com"
+        }, 
+        {
+            "id": 6000,
+            "name": "Merlin",
+            "subject": "NodeJs",
+            "email": "test1@test.com"
+        }
+    ]
+}
