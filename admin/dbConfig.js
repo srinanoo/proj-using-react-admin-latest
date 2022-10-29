@@ -32,7 +32,7 @@ let conn;
 module.exports = {
     connectToServer: function( callback ) {
         // process.env.DB_URL
-        mongo.connect( "mongodb+srv://srinanoo:Test123!@cluster0.pyvufrs.mongodb.net/?retryWrites=true&w=majority", ( err, db ) => {
+        mongo.connect( "mongodb+srv://srinanoo:<password>@cluster0.pyvufrs.mongodb.net/?retryWrites=true&w=majority", ( err, db ) => {
             conn = db.db("students");
             return callback( err );
         } );
